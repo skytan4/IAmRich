@@ -35,3 +35,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+I made some changes in the app delegate
+
+I am going to try and commit these changes in tower
